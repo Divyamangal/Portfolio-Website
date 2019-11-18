@@ -57,7 +57,7 @@ a{
 .intro{
     margin-left: 2px;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 24px;
     margin-top: 0px;
     margin-bottom: 50px;
     color: #666;
@@ -143,7 +143,7 @@ p.texttitle{
 }
 .fb a:hover{color: #3b5998;}
 .li a:hover{color: #0077B5;}
-.in a:hover{color: #fb3958;}
+.in a:hover{color: #010101;}
 .dr a:hover{color: #ea4c89;}
 .be a:hover{color: #1769ff;}
 .up a:hover{color: #8c1aff;}
