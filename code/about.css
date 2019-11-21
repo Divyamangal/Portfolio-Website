@@ -58,13 +58,13 @@ p.texttitle{
     z-index: -1;
     position: absolute;
     left: 40px;
-    top: 40px;
+    top: 60px;
 }
 
 .right{
     position: absolute;
     margin-left: 40%;
-    margin-top: 2.5vw;
+    margin-top: 3.5vw;
     width: 50%;
     z-index: 0;
     
