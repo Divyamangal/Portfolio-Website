@@ -54,11 +54,20 @@ a{
     opacity: .85;
 }
 
-.intro{
+.intro1{
     margin-left: 2px;
     line-height: 1.5;
     font-size: 24x;
     margin-top: 100px;
+    color: #666;
+    letter-spacing: .5px;
+}
+
+.intro2{
+	margin-left: 2px;
+    line-height: 1.5;
+    font-size: 25x;
+    margin-top: 10px;
     margin-bottom: 50px;
     color: #666;
     letter-spacing: .5px;
