@@ -1,8 +1,11 @@
 body{
     margin: 0;
+    border: 23px solid #ededed;
     background-color:;
     position: relative;
     font-family: 'Questrial', sans-serif;
+    height: auto;
+    min-height: 100%;
 }
 
 
